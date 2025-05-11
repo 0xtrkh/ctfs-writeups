@@ -19,4 +19,4 @@ I participate in challenges on platforms like PicoCTF, HTB, TryHackMe, Pwn.colle
 - Python, Bash, pwntools
 
 ## 📺 YouTube Channel (CTF Playthroughs)
-[Watch here](hhttps://www.youtube.com/@00xtrkh) – New content weekly!
+[Watch here](https://www.youtube.com/@00xtrkh) – New content weekly!

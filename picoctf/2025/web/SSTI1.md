@@ -115,7 +115,7 @@ if r.status_code == 200:
 
 Check out the full walkthrough on my YouTube channel where I demonstrate this SSTI attack step-by-step:
 
-👉 [Watch on YouTube](https://www.youtube.com/@yourchannel)  
+👉 [Watch on YouTube](https://youtu.be/oVBkaSHj4aE)  
 🔔 Don’t forget to **like**, **subscribe**, and **turn on notifications** so you never miss a cybersecurity tutorial!
 
 ---
